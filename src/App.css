@@ -1,0 +1,29 @@
+
+.App {
+  text-align: center;
+  margin: 2rem;
+}
+body{
+  background: rgb(184, 134, 241);
+}
+button {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #85a728;
+  color: white;
+  
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
+.quote-image {
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 100%;
+  height: auto;
+}

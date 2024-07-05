@@ -1,0 +1,27 @@
+
+.quote-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .quote-card p {
+    font-size: 1.2rem;
+  }
+  
+  .quote-card button {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #621767;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .quote-card button:hover {
+    background-color: #186a77;
+  }
+  
